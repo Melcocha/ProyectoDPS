@@ -1,18 +1,25 @@
 <h1>ALPHA FINANZAS<h1>
-
-Descripción y Contexto
-Breve descripción de la herramienta y sus funcionalidades principales. Describir el contexto en el cual fue desarrollada y los problemas o retos que busca solucionar.
+  
+<p>
+  Descripción y Contexto
+  Breve descripción de la herramienta y sus funcionalidades principales. Describir el contexto en el cual fue desarrollada y los problemas o retos que busca solucionar.
+</p>
 
 <h2>Guía de Usuario<h2>
-Esta sección se destina a los usuarios finales de la aplicación:
+  
+<p>
+  Esta sección se destina a los usuarios finales de la aplicación:
+</p>
 
 <li>1.Primeros Pasos: Descripción inicial sobre cómo empezar a usar la herramienta.</li>
 <li>2.Funcionalidades: Breve descripción de las funciones más importantes de la herramienta.</li>
 <li>3.Enlace a la documentación detallada para el usuario (si es extensa y se encuentra en un documento separado)</li>
 
-Guía de Instalación 🛠️
-
+<h2>Guía de Instalación<h2> 🛠️
+  
+<p>
 Instrucciones destinadas a desarrolladores o personas con conocimientos técnicos:
+</p>
 
 <h2>Requisitos del Sistema:<h2>
 
@@ -32,4 +39,7 @@ Instrucciones destinadas a desarrolladores o personas con conocimientos técnico
 <li>Paso 2: Descripción detallada del paso.</li>
 
 <h2>Ejecución de Tests<h2> 📄
-Instrucciones sobre cómo ejecutar pruebas unitarias o de integración (si las hay).
+
+<p>
+  Instrucciones sobre cómo ejecutar pruebas unitarias o de integración (si las hay).
+</p>
