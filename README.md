@@ -5,7 +5,7 @@
   Breve descripción de la herramienta y sus funcionalidades principales. Describir el contexto en el cual fue desarrollada y los problemas o retos que busca solucionar.
 </p>
 
-<h2>Guía de Usuario<h2>
+<h2>Guía de Usuario 🛠️<h2>
   
 <p>
   Esta sección se destina a los usuarios finales de la aplicación:
