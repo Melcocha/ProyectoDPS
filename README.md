@@ -1,4 +1,4 @@
-<h1>Nombre de la Herramienta Digital<h1>
+<h1>ALPHA FINANZAS<h1>
 
 Descripción y Contexto
 Breve descripción de la herramienta y sus funcionalidades principales. Describir el contexto en el cual fue desarrollada y los problemas o retos que busca solucionar.
@@ -26,10 +26,10 @@ Instrucciones destinadas a desarrolladores o personas con conocimientos técnico
 <li>[Nombre de la dependencia]: Descripción y propósito de la dependencia.</li>
 <li>[Instrucciones especiales para la compilación o configuración]</li>
 
-Instalación y Configuración:
+<h2>Instalación y Configuración:<h2>
 
 <li>Paso 1: Descripción detallada del paso.</li>
 <li>Paso 2: Descripción detallada del paso.</li>
-...
-Ejecución de Tests 📄
+
+<h2>Ejecución de Tests<h2> 📄
 Instrucciones sobre cómo ejecutar pruebas unitarias o de integración (si las hay).
