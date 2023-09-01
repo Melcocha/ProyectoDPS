@@ -6,7 +6,7 @@ Breve descripción de la herramienta y sus funcionalidades principales. Describi
 Guía de Usuario
 Esta sección se destina a los usuarios finales de la aplicación:
 
-1.Primeros Pasos: Descripción inicial sobre cómo empezar a usar la herramienta.
+<li>1.Primeros Pasos: Descripción inicial sobre cómo empezar a usar la herramienta.</li>
 2.Funcionalidades: Breve descripción de las funciones más importantes de la herramienta.
 3.Enlace a la documentación detallada para el usuario (si es extensa y se encuentra en un documento separado)
 
