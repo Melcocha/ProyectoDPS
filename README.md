@@ -49,4 +49,12 @@ Los siguientes son los desarrolladores y colaboradores principales del proyecto 
   <li>Nota: Asegurarse de tener todas las dependencias actualizadas para evitar conflictos.</li>
 </ul>
 
+<h2>Instalación y Configuración 🛠️</h2>
+
+<ul>
+  <li>Paso 1: Clonar el repositorio del proyecto en tu máquina local.</li>
+  <li>Paso 2: Navegar hasta el directorio del proyecto y ejecutar "npm install" para instalar las dependencias.</li>
+  <li>Paso 3: Ejecutar "npm start" para iniciar la aplicación en modo desarrollo.</li>
+</ul>
+
 
