@@ -61,8 +61,8 @@ Los siguientes son los desarrolladores y colaboradores principales del proyecto 
 <h2>LINKS 🛠️</h2>
 
 <ul>
-  <li><A HREF="https://trello.com/b/xqWSfuDM/proyecto-dsp">TRELLO </A></li>
-  <li>Paso 2: Navegar hasta el directorio del proyecto y ejecutar "npm install" para instalar las dependencias.</li>
+  <li><A HREF="https://trello.com/b/xqWSfuDM/proyecto-dsp">TRELLO</A></li>
+  <li><A HREF="[https://trello.com/b/xqWSfuDM/proyecto-dsp](https://www.figma.com/file/dKBVztVohULHiw9MikBURt/Control-Financiero?type=design&node-id=0-1&mode=design&t=anrxvx6Ocw1fnRj0-0)https://www.figma.com/file/dKBVztVohULHiw9MikBURt/Control-Financiero?type=design&node-id=0-1&mode=design&t=anrxvx6Ocw1fnRj0-0">MOCK UPS</A></li>
   <li>Paso 3: Ejecutar "npm start" para iniciar la aplicación en modo desarrollo.</li>
 </ul>
 
