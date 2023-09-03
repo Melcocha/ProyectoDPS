@@ -16,11 +16,20 @@ Esta sección se destina a los usuarios finales de la aplicación:
   <li>3. Enlace a la documentación detallada para el usuario: [Proporcionar enlace]</li>
 </ul>
 
-<h2>Guía de Instalación 🛠️</h2>
+<h2>Autores 🛠️</h2>
 
 <p>
-Instrucciones destinadas a desarrolladores o personas con conocimientos técnicos:
+Los siguientes son los desarrolladores y colaboradores principales del proyecto ALPHA FINANZAS:
 </p>
+
+<ul>
+  <li>Kevin Alexis Ascencio Villagran</li>
+  <li>José Miguel Chávez Martínez</li>
+  <li>Raúl Alexander Lemus Girón</li>
+  <li>Andres Eduardo Fernandez Vasquez</li>
+  <li>Michael Steven Palacios Aguilar</li>
+  <li>Melvin Alexander Rodríguez Arteaga</li>
+</ul>
 
 <h2>Requisitos del Sistema 🛠️</h2>
 
@@ -40,11 +49,4 @@ Instrucciones destinadas a desarrolladores o personas con conocimientos técnico
   <li>Nota: Asegurarse de tener todas las dependencias actualizadas para evitar conflictos.</li>
 </ul>
 
-<h2>Instalación y Configuración 🛠️</h2>
-
-<ul>
-  <li>Paso 1: Clonar el repositorio del proyecto en tu máquina local.</li>
-  <li>Paso 2: Navegar hasta el directorio del proyecto y ejecutar "npm install" para instalar las dependencias.</li>
-  <li>Paso 3: Ejecutar "npm start" para iniciar la aplicación en modo desarrollo.</li>
-</ul>
 
