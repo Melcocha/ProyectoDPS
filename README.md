@@ -1,45 +1,50 @@
-<h1>ALPHA FINANZAS<h1>
-  
+<h1>ALPHA FINANZAS</h1>
+
 <p>
-  Descripción y Contexto
-  Breve descripción de la herramienta y sus funcionalidades principales. Describir el contexto en el cual fue desarrollada y los problemas o retos que busca solucionar.
+Aplicación multiplataforma altamente funcional y responsiva utilizando React Native, compatible con sistemas operativos Android e iOS, así como también con navegadores web. La aplicación permitirá a los usuarios llevar un control efectivo de sus ingresos y gastos, brindando una interfaz intuitiva y representación gráfica del balance general y el historial financiero.
 </p>
 
-<h2>Guía de Usuario 🛠️<h2>
-  
+<h2>Guía de Usuario 🛠️</h2>
+
 <p>
-  Esta sección se destina a los usuarios finales de la aplicación:
+Esta sección se destina a los usuarios finales de la aplicación:
 </p>
 
-<li>1.Primeros Pasos: Descripción inicial sobre cómo empezar a usar la herramienta.</li>
-<li>2.Funcionalidades: Breve descripción de las funciones más importantes de la herramienta.</li>
-<li>3.Enlace a la documentación detallada para el usuario (si es extensa y se encuentra en un documento separado)</li>
+<ul>
+  <li>1. Primeros Pasos: Descarga la aplicación desde la tienda oficial de tu dispositivo y regístrate usando tu correo electrónico o cuenta de Google.</li>
+  <li>2. Funcionalidades: Visualiza estadísticas de gastos, programa alertas de pagos, y exporta informes financieros.</li>
+  <li>3. Enlace a la documentación detallada para el usuario: [Proporcionar enlace]</li>
+</ul>
 
-<h2>Guía de Instalación 🛠️<h2> 
-  
+<h2>Guía de Instalación 🛠️</h2>
+
 <p>
 Instrucciones destinadas a desarrolladores o personas con conocimientos técnicos:
 </p>
 
-<h2>Requisitos del Sistema 🛠️<h2>
+<h2>Requisitos del Sistema 🛠️</h2>
 
-<li>Sistema operativo: [Especificar (ej: Windows, Linux, macOS)]</li>
-<li>Librerías requeridas: [Especificar versión]</li>
-<li>SDKs y Compiladores: [Especificar versión]</li>
-<li>Gestión de paquetes y dependencias: [Especificar herramienta y versión, ej: npm v7.0]</li>
+<ul>
+  <li>Sistema operativo: Windows 10, Linux (Ubuntu 20.04), macOS Catalina</li>
+  <li>Librerías requeridas: React Native 0.65.0</li>
+  <li>SDKs y Compiladores: Android SDK 29.0.2, Xcode 12.4</li>
+  <li>Gestión de paquetes y dependencias: npm v7.0, yarn v1.22</li>
+</ul>
 
-<h2>Dependencias del Proyecto 🛠️<h2>
+<h2>Dependencias del Proyecto 🛠️</h2>
 
-<li>[Nombre de la dependencia]: Descripción y propósito de la dependencia.</li>
-<li>[Instrucciones especiales para la compilación o configuración]</li>
+<ul>
+  <li>axios: Librería para hacer peticiones HTTP de manera sencilla.</li>
+  <li>react-navigation: Proporciona soluciones de navegación para aplicaciones React Native.</li>
+  <li>react-redux: Para manejo de estados globales en la app.</li>
+  <li>Nota: Asegurarse de tener todas las dependencias actualizadas para evitar conflictos.</li>
+</ul>
 
-<h2>Instalación y Configuración 🛠️<h2>
+<h2>Instalación y Configuración 🛠️</h2>
 
-<li>Paso 1: Descripción detallada del paso.</li>
-<li>Paso 2: Descripción detallada del paso.</li>
+<ul>
+  <li>Paso 1: Clonar el repositorio del proyecto en tu máquina local.</li>
+  <li>Paso 2: Navegar hasta el directorio del proyecto y ejecutar "npm install" para instalar las dependencias.</li>
+  <li>Paso 3: Ejecutar "npm start" para iniciar la aplicación en modo desarrollo.</li>
+</ul>
 
-<h2>Ejecución de Tests 🛠️<h2> 
-
-<p>
-  Instrucciones sobre cómo ejecutar pruebas unitarias o de integración (si las hay).
-</p>
