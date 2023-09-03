@@ -58,4 +58,12 @@ Los siguientes son los desarrolladores y colaboradores principales del proyecto 
   <li>Paso 3: Ejecutar "npm start" para iniciar la aplicación en modo desarrollo.</li>
 </ul>
 
+<h2>LINKS 🛠️</h2>
+
+<ul>
+  <li><A HREF=["otra_pagina.html](https://trello.com/b/xqWSfuDM/proyecto-dsp)">TRELLO </A></li>
+  <li>Paso 2: Navegar hasta el directorio del proyecto y ejecutar "npm install" para instalar las dependencias.</li>
+  <li>Paso 3: Ejecutar "npm start" para iniciar la aplicación en modo desarrollo.</li>
+</ul>
+
 
