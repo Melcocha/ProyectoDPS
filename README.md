@@ -23,6 +23,7 @@ Los siguientes son los desarrolladores y colaboradores principales del proyecto 
 </p>
 
 <ul>
+  <li>GRUPO G01T</li>
   <li>Kevin Alexis Ascencio Villagran</li>
   <li>José Miguel Chávez Martínez</li>
   <li>Raúl Alexander Lemus Girón</li>
