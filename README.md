@@ -69,7 +69,7 @@ Los siguientes son los desarrolladores y colaboradores principales del proyecto 
             style={{ borderWidth: 0 }} 
             src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" 
           />
-        </a>Licencia de Creative Commons</li>
+        </a> Attribution-NonCommercial-ShareAlike 3.0 IGOs</li>
 </ul>
 
 
