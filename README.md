@@ -26,7 +26,7 @@ Los siguientes son los desarrolladores y colaboradores principales del proyecto 
   GRUPO G01T
   <li>Kevin Alexis Ascencio Villagran</li>
   <li>José Miguel Chávez Martínez</li>
-  <li>Raúl Alexander Lemus Girón</li>
+  <li>Raúl Alexander Girón</li>
   <li>Andres Eduardo Fernandez Vasquez</li>
   <li>Michael Steven Palacios Aguilar</li>
   <li>Melvin Alexander Rodríguez Arteaga</li>
